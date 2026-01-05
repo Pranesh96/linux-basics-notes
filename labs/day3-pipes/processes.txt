@@ -1,0 +1,372 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0  23900 14820 ?        Ss   13:11   0:04 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    13:11   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    13:11   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-netns]
+root           9  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/0:0H-events_highpri]
+root          12  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    13:11   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    13:11   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    13:11   0:00 [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/0]
+root          17  0.1  0.0      0     0 ?        I    13:11   0:18 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/2]
+root          22  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/2]
+root          23  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/2]
+root          24  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/2:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/4]
+root          28  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/4]
+root          29  0.0  0.0      0     0 ?        S    13:11   0:01 [migration/4]
+root          30  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/4]
+root          32  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/4:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/5]
+root          34  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/5]
+root          35  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/5]
+root          36  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/5]
+root          38  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/5:0H-events_highpri]
+root          39  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/6]
+root          40  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/6]
+root          41  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/6]
+root          42  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/6]
+root          44  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/6:0H-events_highpri]
+root          45  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/7]
+root          46  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/7]
+root          47  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/7]
+root          48  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/7]
+root          50  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/7:0H-events_highpri]
+root          51  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/8]
+root          52  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/8]
+root          53  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/8]
+root          54  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/8]
+root          56  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/8:0H-events_highpri]
+root          57  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/9]
+root          58  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/9]
+root          59  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/9]
+root          60  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/9]
+root          62  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/9:0H-events_highpri]
+root          63  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/10]
+root          64  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/10]
+root          65  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/10]
+root          66  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/10]
+root          68  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/10:0H-events_highpri]
+root          69  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/11]
+root          70  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/11]
+root          71  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/11]
+root          72  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/11]
+root          74  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/11:0H-events_highpri]
+root          75  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/1]
+root          76  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/1]
+root          77  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/1]
+root          78  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/1]
+root          80  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/1:0H-events_highpri]
+root          81  0.0  0.0      0     0 ?        S    13:11   0:00 [cpuhp/3]
+root          82  0.0  0.0      0     0 ?        S    13:11   0:00 [idle_inject/3]
+root          83  0.0  0.0      0     0 ?        S    13:11   0:00 [migration/3]
+root          84  0.0  0.0      0     0 ?        S    13:11   0:00 [ksoftirqd/3]
+root          86  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/3:0H-events_highpri]
+root          87  0.0  0.0      0     0 ?        S    13:11   0:00 [kdevtmpfs]
+root          88  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-inet_]
+root          89  0.0  0.0      0     0 ?        S    13:11   0:00 [kauditd]
+root          90  0.0  0.0      0     0 ?        S    13:11   0:00 [khungtaskd]
+root          91  0.0  0.0      0     0 ?        S    13:11   0:00 [oom_reaper]
+root          93  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-write]
+root          95  0.0  0.0      0     0 ?        S    13:11   0:00 [kcompactd0]
+root          96  0.0  0.0      0     0 ?        SN   13:11   0:00 [ksmd]
+root          98  0.0  0.0      0     0 ?        SN   13:11   0:00 [khugepaged]
+root          99  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-kinte]
+root         100  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-kbloc]
+root         101  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-blkcg]
+root         102  0.0  0.0      0     0 ?        S    13:11   0:17 [irq/9-acpi]
+root         105  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-tpm_d]
+root         106  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-ata_s]
+root         107  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-md]
+root         108  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-md_bi]
+root         109  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-edac-]
+root         110  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-devfr]
+root         111  0.0  0.0      0     0 ?        S    13:11   0:00 [watchdogd]
+root         113  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/5:1H-events_highpri]
+root         114  0.0  0.0      0     0 ?        S    13:11   0:00 [kswapd0]
+root         115  0.0  0.0      0     0 ?        S    13:11   0:00 [ecryptfs-kthread]
+root         116  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-kthro]
+root         117  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-acpi_]
+root         123  0.0  0.0      0     0 ?        S    13:11   0:00 [hwrng]
+root         124  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-hfi-u]
+root         125  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-mld]
+root         126  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/2:1H-events_highpri]
+root         127  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-ipv6_]
+root         134  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-kstrp]
+root         154  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-charg]
+root         178  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/9:1H-events_highpri]
+root         181  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/6:1H-events_highpri]
+root         182  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/0:1H-events_highpri]
+root         200  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/4:1H-kblockd]
+root         201  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/3:1H-kblockd]
+root         202  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/7:1H-events_highpri]
+root         204  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/1:1H-kblockd]
+root         205  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/11:1H-kblockd]
+root         229  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/8:1H-kblockd]
+root         230  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/10:1H-events_highpri]
+root         298  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-nvme-]
+root         299  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-nvme-]
+root         300  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-nvme-]
+root         301  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-nvme-]
+root         303  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/160-VEN_04F3:00]
+root         308  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-USBC0]
+root         346  0.0  0.0      0     0 ?        S    13:11   0:01 [jbd2/nvme0n1p3-8]
+root         347  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-ext4-]
+root         393  0.0  0.1  67880 20300 ?        S<s  13:11   0:01 /usr/lib/systemd/systemd-journald
+root         503  0.0  0.0  30856  8064 ?        Ss   13:11   0:00 /usr/lib/systemd/systemd-udevd
+root         556  0.0  0.0      0     0 ?        S    13:11   0:00 [psimon]
+root         634  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/174-mei_me]
+root         635  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-cfg80]
+root         639  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-crypt]
+root         708  0.0  0.0      0     0 ?        S    13:11   0:05 [irq/175-iwlwifi:default_queue]
+root         709  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/176-iwlwifi:queue_1]
+root         710  0.0  0.0      0     0 ?        S    13:11   0:01 [irq/177-iwlwifi:queue_2]
+root         711  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/178-iwlwifi:queue_3]
+root         712  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/179-iwlwifi:queue_4]
+root         713  0.0  0.0      0     0 ?        S    13:11   0:01 [irq/180-iwlwifi:queue_5]
+root         714  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/181-iwlwifi:queue_6]
+root         715  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/182-iwlwifi:queue_7]
+root         716  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/183-iwlwifi:queue_8]
+root         717  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/184-iwlwifi:queue_9]
+root         718  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/185-iwlwifi:queue_10]
+root         719  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/186-iwlwifi:queue_11]
+root         720  0.0  0.0      0     0 ?        S    13:11   0:01 [irq/187-iwlwifi:queue_12]
+root         721  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/188-iwlwifi:exception]
+root         833  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/16-processor_thermal_device_pci]
+systemd+     860  0.0  0.0  17560  7040 ?        Ss   13:11   0:03 /usr/lib/systemd/systemd-oomd
+systemd+     867  0.0  0.0  21956 12032 ?        Ss   13:11   0:00 /usr/lib/systemd/systemd-resolved
+systemd+     870  0.0  0.0  91048  7808 ?        Ssl  13:11   0:00 /usr/lib/systemd/systemd-timesyncd
+root         875  0.0  0.0      0     0 ?        I<   13:11   0:00 [kworker/R-ttm]
+root         887  0.0  0.0      0     0 ?        S    13:11   0:00 [card1-crtc0]
+root         888  0.0  0.0      0     0 ?        S    13:11   0:00 [card1-crtc1]
+root         889  0.0  0.0      0     0 ?        S    13:11   0:00 [card1-crtc2]
+root         890  0.0  0.0      0     0 ?        S    13:11   0:00 [card1-crtc3]
+root         949  0.0  0.0 313292  7496 ?        Ssl  13:11   0:00 /usr/libexec/accounts-daemon
+avahi        952  0.0  0.0   8616  4096 ?        Ss   13:11   0:00 avahi-daemon: running [pranesh-kumar.local]
+root         953  0.0  0.0  13416  5632 ?        Ss   13:11   0:00 /usr/libexec/bluetooth/bluetoothd
+root         955  0.0  0.0   9424  2688 ?        Ss   13:11   0:00 /usr/sbin/cron -f -P
+message+     956  0.0  0.0  12476  7080 ?        Ss   13:11   0:02 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gnome-r+     960  0.0  0.0 439204 15292 ?        Ssl  13:11   0:00 /usr/libexec/gnome-remote-desktop-daemon --system
+root         982  0.0  0.1  40644 22272 ?        Ss   13:11   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+polkitd      983  0.0  0.0 390856 11060 ?        Ssl  13:11   0:01 /usr/lib/polkit-1/polkitd --no-debug
+root         984  0.0  0.0 313508  7516 ?        Ssl  13:11   0:00 /usr/libexec/power-profiles-daemon
+root         989  0.0  0.2 2589076 41824 ?       Ssl  13:11   0:01 /usr/lib/snapd/snapd
+root         990  0.0  0.0 309860  6400 ?        Ssl  13:11   0:00 /usr/libexec/switcheroo-control
+root         992  0.0  0.0  18188  8740 ?        Ss   13:11   0:00 /usr/lib/systemd/systemd-logind
+root         993  0.0  0.0 424904  9728 ?        Ssl  13:11   0:11 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         994  0.0  0.0 470472 13784 ?        Ssl  13:11   0:00 /usr/libexec/udisks2/udisksd
+avahi       1001  0.0  0.0   8424  1280 ?        S    13:11   0:00 avahi-daemon: chroot helper
+clamav      1004  0.0  6.2 1221716 1003708 ?     Ssl  13:11   0:10 /usr/sbin/clamd --foreground=true
+root        1018  0.0  0.2 467088 38336 ?        Ssl  13:11   0:08 /opt/cisco/secureclient/bin/vpnagentd -execv_instance
+syslog      1022  0.0  0.0 222508  5504 ?        Ssl  13:11   0:00 /usr/sbin/rsyslogd -n -iNONE
+root        1065  0.0  0.0      0     0 ?        S    13:11   0:00 [irq/190-AudioDSP]
+root        1168  0.0  0.1 337092 19416 ?        Ssl  13:11   0:02 /usr/sbin/NetworkManager --no-daemon
+root        1187  0.0  0.0  18372 10752 ?        Ss   13:11   0:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root        1202  0.0  0.0 317592  9600 ?        Ssl  13:11   0:02 /usr/libexec/upowerd
+root        1455  0.0  0.0 318296 12212 ?        Ssl  13:11   0:00 /usr/sbin/ModemManager
+root        1672  0.0  0.0  38344 11520 ?        Ss   13:11   0:00 /usr/sbin/cupsd -l
+root        1676  0.0  0.1 118040 24704 ?        Ssl  13:11   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1692  0.0  0.0 314824  8704 ?        Ssl  13:11   0:00 /usr/sbin/gdm3
+rtkit       1753  0.0  0.0  22940  3200 ?        SNsl 13:11   0:00 /usr/libexec/rtkit-daemon
+colord      1883  0.0  0.0 320200 14420 ?        Ssl  13:11   0:00 /usr/libexec/colord
+clamav      2278  0.0  0.1 150436 20224 ?        Ss   13:11   0:00 /usr/bin/freshclam -d --foreground=true
+cups-br+    2280  0.0  0.1 268476 19456 ?        Ssl  13:11   0:00 /usr/sbin/cups-browsed
+kernoops    2305  0.0  0.0  12744  2068 ?        Ss   13:11   0:00 /usr/sbin/kerneloops --test
+kernoops    2308  0.0  0.0  12744  2092 ?        Ss   13:11   0:00 /usr/sbin/kerneloops
+root        2315  0.0  0.2 1029728 39984 ?       S    13:11   0:01 /opt/cisco/secureclient/securefirewallposture/bin/ciscod
+root        2325  0.0  0.1  80680 18432 ?        Ss   13:11   0:00 /usr/sbin/nmbd --foreground --no-process-group
+root        2333  0.0  0.1  92884 25728 ?        Ss   13:11   0:00 /usr/sbin/smbd --foreground --no-process-group
+root        2337  0.0  0.0  90408  6748 ?        S    13:11   0:00 smbd: notifyd .
+root        2338  0.0  0.0  90400  6108 ?        S    13:11   0:00 smbd: cleanupd 
+root        2492  0.0  0.0      0     0 ?        S    13:11   0:00 [psimon]
+root        2495  0.0  0.0 242548  9900 ?        Sl   13:11   0:00 gdm-session-worker [pam/gdm-password]
+pranesh     2523  0.0  0.0  23004 13872 ?        Ss   13:11   0:01 /usr/lib/systemd/systemd --user
+pranesh     2529  0.0  0.0  21400  3588 ?        S    13:11   0:00 (sd-pam)
+pranesh     2542  0.0  0.1 122560 21000 ?        S<sl 13:11   0:02 /usr/bin/pipewire
+pranesh     2544  0.0  0.0  97736  5760 ?        Ssl  13:11   0:00 /usr/bin/pipewire -c filter-chain.conf
+pranesh     2547  0.0  0.1 406460 17536 ?        S<sl 13:11   0:00 /usr/bin/wireplumber
+pranesh     2549  0.0  0.1 117352 19272 ?        S<sl 13:11   0:01 /usr/bin/pipewire-pulse
+pranesh     2551  0.0  0.0 611592  9984 ?        SLsl 13:11   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+pranesh     2555  0.0  0.0  11184  6144 ?        Ss   13:11   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+pranesh     2597  0.0  0.0 610292  7040 ?        Ssl  13:11   0:00 /usr/libexec/xdg-document-portal
+pranesh     2601  0.0  0.0 309308  5760 ?        Ssl  13:11   0:00 /usr/libexec/xdg-permission-store
+root        2608  0.0  0.0   2704  1920 ?        Ss   13:11   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+pranesh     2658  0.0  0.0 235668  5632 tty2     Ssl+ 13:11   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+pranesh     2673  0.0  0.1 298232 16128 tty2     Sl+  13:11   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+pranesh     2745  0.0  0.0 162652  6656 ?        Ssl  13:11   0:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+pranesh     2746  0.0  0.0  91548  5504 ?        Ssl  13:11   0:00 /usr/libexec/gnome-session-ctl --monitor
+pranesh     2763  0.0  0.0 314260  7424 ?        Ssl  13:11   0:00 /usr/libexec/gvfsd
+pranesh     2774  0.0  0.0 459708  6656 ?        Sl   13:11   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+pranesh     2776  0.0  0.1 520512 17792 ?        Ssl  13:11   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+pranesh     2822  2.2  2.2 5765308 357012 ?      Rsl  13:11   6:50 /usr/bin/gnome-shell
+pranesh     2824  0.0  0.0 382960  7552 ?        Sl   13:11   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+pranesh     2834  0.0  0.0   9556  4864 ?        S    13:11   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+pranesh     2912  0.0  0.0 236068  7424 ?        Sl   13:11   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+pranesh     2931  0.0  0.1 654796 16896 ?        Sl   13:11   0:00 /usr/libexec/gnome-shell-calendar-server
+pranesh     2945  0.0  0.2 1275092 41984 ?       Ssl  13:11   0:00 /usr/libexec/evolution-source-registry
+pranesh     2947  0.0  0.1 2859340 26744 ?       Sl   13:11   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+pranesh     2962  0.1  0.0 388668 11808 ?        Ssl  13:11   0:18 /usr/bin/ibus-daemon --panel disable
+pranesh     2963  0.0  0.0 383540  6400 ?        Ssl  13:11   0:00 /usr/libexec/gsd-a11y-settings
+pranesh     2964  0.0  0.1 412944 19972 ?        Ssl  13:11   0:00 /usr/libexec/gsd-color
+pranesh     2966  0.0  0.0 431684 11904 ?        Ssl  13:11   0:00 /usr/libexec/gsd-datetime
+pranesh     2967  0.0  0.0 385292  7424 ?        Ssl  13:11   0:00 /usr/libexec/gsd-housekeeping
+pranesh     2968  0.0  0.1 485532 19200 ?        Ssl  13:11   0:00 /usr/libexec/gsd-keyboard
+pranesh     2970  0.0  0.1 594180 24000 ?        Ssl  13:11   0:00 /usr/libexec/gsd-media-keys
+pranesh     2971  0.0  0.1 612036 27436 ?        Ssl  13:11   0:00 /usr/libexec/gsd-power
+pranesh     2976  0.0  0.0 323752 11264 ?        Ssl  13:11   0:00 /usr/libexec/gsd-print-notifications
+pranesh     2980  0.0  0.0 531084  6272 ?        Ssl  13:11   0:00 /usr/libexec/gsd-rfkill
+pranesh     2981  0.0  0.0 309560  6144 ?        Ssl  13:11   0:00 /usr/libexec/gsd-screensaver-proxy
+pranesh     2985  0.0  0.0 543212 11648 ?        Ssl  13:11   0:00 /usr/libexec/gsd-sharing
+pranesh     3006  0.0  0.0 385840  7936 ?        Ssl  13:11   0:00 /usr/libexec/gsd-smartcard
+pranesh     3007  0.0  0.0 393524  9600 ?        Ssl  13:11   0:00 /usr/libexec/gsd-sound
+pranesh     3013  0.0  0.1 412776 19972 ?        Ssl  13:11   0:00 /usr/libexec/gsd-wacom
+pranesh     3023  0.0  0.3 1375440 52968 ?       Sl   13:11   0:16 /usr/bin/diodon
+pranesh     3072  0.0  0.2 610928 40924 ?        Sl   13:11   0:00 /usr/bin/xpad
+pranesh     3082  0.0  0.0 305492  7680 ?        Sl   13:11   0:00 /usr/libexec/gsd-disk-utility-notify
+pranesh     3093  0.0  0.3 890324 53080 ?        Sl   13:11   0:03 /usr/bin/python3 /usr/bin/autokey-gtk
+pranesh     3097  0.0  0.0 236644  6912 ?        Sl   13:11   0:00 /usr/libexec/ibus-memconf
+pranesh     3101  0.0  0.1 421532 28396 ?        Sl   13:11   0:04 /usr/libexec/ibus-extension-gtk3
+pranesh     3103  0.0  0.3 829524 62964 ?        Sl   13:11   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+pranesh     3154  0.0  0.0 310424  6912 ?        Sl   13:11   0:00 /usr/libexec/ibus-portal
+pranesh     3163  0.0  0.0 416236 14848 ?        Sl   13:11   0:00 /usr/libexec/gsd-printer
+pranesh     3174  0.0  0.0 389464 10752 ?        Ssl  13:11   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+pranesh     3178  0.0  1.0 2709124 168096 ?      Sl   13:11   0:03 /snap/snap-store/1216/usr/bin/snap-store --gapplication-service
+pranesh     3207  0.0  0.0 310760  6784 ?        Ssl  13:11   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+pranesh     3221  0.0  0.0 389376  7808 ?        Ssl  13:11   0:00 /usr/libexec/gvfs-afc-volume-monitor
+pranesh     3229  0.0  0.0 309772  6144 ?        Ssl  13:11   0:00 /usr/libexec/gvfs-goa-volume-monitor
+pranesh     3234  0.0  0.1 546680 23552 ?        Sl   13:11   0:00 /usr/libexec/goa-daemon
+pranesh     3255  0.0  0.0 389124  8576 ?        Sl   13:11   0:00 /usr/libexec/goa-identity-service
+pranesh     3262  0.0  0.0 309792  6272 ?        Ssl  13:11   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+pranesh     3266  0.0  0.1 1169404 23680 ?       Ssl  13:11   0:00 /usr/libexec/evolution-calendar-factory
+pranesh     3277  0.0  0.6 619380 109028 ?       Sl   13:11   0:15 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.FEBCI3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+pranesh     3322  0.0  0.1 825456 29440 ?        Ssl  13:11   0:00 /usr/libexec/evolution-addressbook-factory
+pranesh     3334  0.0  0.0 236768  6912 ?        Sl   13:11   0:06 /usr/libexec/ibus-engine-simple
+pranesh     3374  0.0  0.0 230356  5760 ?        Ssl  13:11   0:00 /usr/libexec/dconf-service
+pranesh     3380  0.0  0.0 609440  8576 ?        Sl   13:11   0:00 /usr/libexec/gvfsd-trash --spawner :1.20 /org/gtk/gvfs/exec_spaw/0
+pranesh     3414  0.0  0.1 735000 26952 ?        SNsl 13:11   0:00 /usr/libexec/tracker-miner-fs-3
+pranesh     3441  0.0  0.1 2597032 26896 ?       Sl   13:11   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+pranesh     3461  0.0  0.5 795744 87172 ?        Ssl  13:11   0:00 /usr/libexec/gsd-xsettings
+pranesh     3468  0.0  0.0 701784 14096 ?        Ssl  13:11   0:00 /usr/libexec/xdg-desktop-portal
+pranesh     3479  0.0  0.9 1833668 148196 ?      Ssl  13:11   0:00 /usr/libexec/xdg-desktop-portal-gnome
+pranesh     3509  0.0  0.1 421260 29052 ?        Ssl  13:11   0:00 /usr/libexec/xdg-desktop-portal-gtk
+pranesh     3546  0.0  0.5 3235688 87744 ?       Sl   13:11   0:02 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+pranesh     3574  0.0  0.1 267136 24380 ?        Sl   13:11   0:00 /usr/libexec/ibus-x11
+pranesh     3581  0.0  0.7 1245476 118400 ?      Sl   13:11   0:02 /usr/libexec/mutter-x11-frames
+pranesh     3606  0.0  0.0 460144  8960 ?        Ssl  13:11   0:00 /usr/bin/zeitgeist-daemon
+pranesh     3627  0.0  0.0 236304  6272 ?        Ssl  13:11   0:00 /usr/libexec/gvfsd-metadata
+pranesh     3647  0.0  0.0  39136 11904 ?        Ss   13:11   0:00 /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+pranesh     3700  0.0  0.2 435272 33300 ?        Sl   13:11   0:00 /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+pranesh     3722  0.0  0.1 350396 20532 ?        Ssl  13:11   0:00 /usr/lib/zeitgeist/zeitgeist-fts
+root        3773  0.0  0.2 603736 46592 ?        Ssl  13:11   0:02 /usr/libexec/fwupd/fwupd
+pranesh     4218  0.0  0.2 572132 34392 ?        Sl   13:12   0:00 /usr/bin/update-notifier
+pranesh     4563  0.1  1.2 1283739460 200576 ?   SLl  13:27   0:17 /snap/slack/216/usr/lib/slack/slack --no-sandbox --executed-from=/home/pranesh --pid=4473
+pranesh     4575  0.2  0.4 672584 74956 ?        Ssl  13:27   0:37 /usr/libexec/gnome-terminal-server
+pranesh     4582  0.0  0.3 33827000 54144 ?      S    13:27   0:00 /snap/slack/216/usr/lib/slack/slack --type=zygote --no-zygote-sandbox --no-sandbox
+pranesh     4583  0.0  0.3 33827000 54144 ?      S    13:27   0:00 /snap/slack/216/usr/lib/slack/slack --type=zygote --no-sandbox
+pranesh     4596  0.0  0.0  11264  5120 pts/0    Ss   13:27   0:00 bash
+pranesh     4610  0.0  0.0 33576404 2944 ?       Sl   13:27   0:00 /snap/slack/216/usr/lib/slack/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-upload-gzip --database=/home/pranesh/snap/slack/216/.config/Slack/Crashpad --url=https://slack.com/apps/sentryproxy/api/5277886/minidump/?sentry_key=fd30fe469dbf4aec9db40548e5acf91e --annotation=_productName=Slack --annotation=_version=4.46.99 --annotation=lsb-release=Ubuntu Core 20 --annotation=plat=Linux --annotation=prod=Electron --annotation=sentry___initialScope={"release":"Slack@4.46.99","environment":"production","user":{"id":"ecbc7d82-0693-4041-b670-0f56f64e0480"},"tags":{"uuid":"ecbc7d82-0693-4041-b670-0f56f64e0480"},"extra":{"sessionId":"ZWNiYzdkODItMDY5My00MDQxLWI2NzAtMGY1NmY2NGUwNDgwXzE3Njc1OTk4Njc3MTg="}} --annotation=ver=38.1.2 --initial-client-fd=39 --shared-client-connection
+pranesh     4615  0.0  0.4 825864 78004 ?        Sl   13:27   0:13 /opt/cisco/secureclient/bin/vpnui
+pranesh     4665  0.0  0.5 33950816 83468 ?      Sl   13:27   0:04 /proc/self/exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=4610 --enable-crash-reporter=7975ede4-8f22-4fed-bf13-2bbe84bcb0eb,no_channel --user-data-dir=/home/pranesh/snap/slack/216/.config/Slack --standard-schemes=app,slack-webapp-dev --secure-schemes=app,slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,2605210016378777514,9432662301843861956,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,PdfUseShowSaveFilePicker,WebRTCPipeWireCapturer --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,EnableWatermarkView,EnumerateDevicesRelaxedCache,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,LogJsConsoleMessages,PostQuantumKyber,RequestInitiatorSiteLockEnfocement,ScreenAIOCREnabled,SkipEmptyDisplayHotplugEvent,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version
+pranesh     4700  0.0  0.1 1988012 24356 ?       Sl   13:27   0:00 /usr/bin/snap userd
+pranesh     4713  0.9  2.8 1285250256 465512 ?   Sl   13:27   2:40 /snap/slack/216/usr/lib/slack/slack --type=zygote --no-sandbox
+pranesh     4748  0.0  0.0 389988  9844 ?        Sl   13:27   0:00 /usr/libexec/gvfsd-recent --spawner :1.20 /org/gtk/gvfs/exec_spaw/1
+pranesh     4769  0.6  0.7 34150924 121260 ?     Sl   13:27   1:53 /snap/slack/216/usr/lib/slack/slack --type=zygote --no-zygote-sandbox --no-sandbox
+pranesh     4822  0.0  0.4 33955272 64384 ?      Sl   13:27   0:00 /proc/self/exe --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-GB --service-sandbox-type=none --no-sandbox --crashpad-handler-pid=4610 --enable-crash-reporter=7975ede4-8f22-4fed-bf13-2bbe84bcb0eb,no_channel --user-data-dir=/home/pranesh/snap/slack/216/.config/Slack --standard-schemes=app,slack-webapp-dev --secure-schemes=app,slack-webapp-dev --bypasscsp-schemes=slack-webapp-dev --cors-schemes=slack-webapp-dev --fetch-schemes=slack-webapp-dev --service-worker-schemes=slack-webapp-dev --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,2605210016378777514,9432662301843861956,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,PdfUseShowSaveFilePicker,WebRTCPipeWireCapturer --disable-features=AllowAggressiveThrottlingWithWebSocket,CalculateNativeWinOcclusion,EnableWatermarkView,EnumerateDevicesRelaxedCache,HardwareMediaKeyHandling,IntensiveWakeUpThrottling,LogJsConsoleMessages,PostQuantumKyber,RequestInitiatorSiteLockEnfocement,ScreenAIOCREnabled,SkipEmptyDisplayHotplugEvent,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation,WebRtcHideLocalIpsWithMdns,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version
+pranesh     4846  2.2  3.5 34584820 575580 ?     SLl  13:27   6:16 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome
+pranesh     4849  0.0  0.0 33577516 3840 ?       Sl   13:27   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/pranesh/.config/google-chrome/Crash Reports --metrics-dir=/home/pranesh/.config/google-chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 24.04.3 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=143.0.7499.40 --initial-client-fd=5 --shared-client-connection
+pranesh     4851  0.0  0.0 33568280 3328 ?       Sl   13:27   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/pranesh/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 24.04.3 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=143.0.7499.40 --initial-client-fd=4 --shared-client-connection
+pranesh     4857  0.0  0.4 50989992 64896 ?      S    13:27   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --change-stack-guard-on-fork=enable
+pranesh     4858  0.0  0.4 34212764 65152 ?      S    13:27   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --change-stack-guard-on-fork=enable
+pranesh     4860  0.0  0.1 34212792 18248 ?      S    13:27   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --change-stack-guard-on-fork=enable
+pranesh     4890  1.5  1.5 51507968 251556 ?     Sl   13:27   4:26 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=gpu-process --ozone-platform=wayland --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAQAEAAAAAAAAAAAAAGAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --metrics-shmem-handle=4,i,5065738502259711011,7664751659111546677,262144 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708988185955192
+pranesh     4894  0.4  0.9 50810232 159532 ?     Sl   13:27   1:12 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=none --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,6003288223759120471,1488262554864506912,524288 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708989122997041
+pranesh     4909  0.0  0.3 34281520 59860 ?      Sl   13:27   0:04 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-GB --service-sandbox-type=utility --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,3863204678020400584,12712583919427957074,524288 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708990060038890
+pranesh     4946  0.2  1.5 1445032356 247272 ?   Sl   13:27   0:35 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --extension-process --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1008752588 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,1894153823010426317,5875722532348790044,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708991934122588
+pranesh     4962  1.0  2.0 1445033728 326480 ?   Sl   13:27   2:52 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1008972962 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,12519619321660374727,3244048815734244433,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708993808206286
+pranesh     4963  0.0  1.6 1443273692 272228 ?   Sl   13:27   0:11 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1008974543 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,2244339323418754739,14733466592673799601,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708992871164437
+pranesh     4981  0.0  0.9 1444984784 150760 ?   Sl   13:27   0:14 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --extension-process --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=15 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1009017508 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,7926046479584700509,8490363372764378861,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709000367499229
+pranesh     5047  0.1  1.7 1443297828 287632 ?   Sl   13:27   0:30 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1009082892 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,8574046510808748228,6068584734399830710,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708995682289984
+pranesh     5104  4.5  3.5 1445063820 568780 ?   Sl   13:27  12:56 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=17 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1009838935 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,5960713584361281588,1848967815761906521,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709002241582927
+pranesh     5113  0.0  0.8 1443254100 129960 ?   Sl   13:27   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1009865075 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,2078541953461052715,5533768825232467275,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709003178624776
+pranesh     5136  0.0  0.9 1443271656 147020 ?   Sl   13:28   0:01 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=19 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1010072079 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,10063276746636677665,9060061205217569712,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709004115666625
+pranesh     5162  0.0  0.5 34023652 86132 ?      Sl   13:28   0:02 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-GB --service-sandbox-type=none --render-node-override=/dev/dri/renderD128 --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,16761368485048231986,9131331756839256800,524288 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709005052708474
+pranesh     5197  0.0  0.7 1443262160 127336 ?   Sl   13:28   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=23 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1012207816 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,15198206636578720243,5099019705330648658,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709007863834021
+pranesh     5206  0.0  0.9 1448406764 148008 ?   Sl   13:28   0:05 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=24 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1012243358 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,12862394877953306003,16418699337694261412,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709008800875870
+pranesh     5220  0.0  0.8 1443270368 131688 ?   Sl   13:28   0:01 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=25 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1014333451 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,17889541707667469575,7792874721182949693,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709009737917719
+pranesh     5231  0.0  1.1 1443276696 179172 ?   Sl   13:28   0:02 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1015089928 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,5848291293601417473,1322979212151337887,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708996619331833
+pranesh     5245  0.0  1.3 1444991820 219600 ?   Sl   13:28   0:13 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1016040666 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,37752257243366872,16036952932943108049,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190708997556373682
+pranesh     5281  0.0  0.8 1443245640 131656 ?   Sl   13:28   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=26 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1016839850 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,4885201134364273324,13731401592271927414,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709010674959568
+pranesh     5353  0.0  0.0      0     0 ?        Z    13:28   0:00 [cscan] <defunct>
+pranesh     9542  0.0  0.0  18760  9352 pts/0    S+   13:29   0:00 ssh -o IdentitiesOnly yes -i /home/pranesh/.ssh/nexcess_login_server.id_rsa -l praneshkumar mellon-login01.us-midwest-1.nexcess.net -p 22005 -vv
+pranesh     9587  0.0  0.0   8432  5632 ?        S    13:29   0:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+pranesh     9609  0.0  0.0  11264  5504 pts/1    Ss   13:29   0:00 bash
+pranesh     9616  0.0  0.0  18764  9120 pts/1    S+   13:29   0:01 ssh -o IdentitiesOnly yes -i /home/pranesh/.ssh/nexcess_login_server.id_rsa -l praneshkumar mellon-login01.us-midwest-1.nexcess.net -p 22005 -vv
+pranesh    13443  5.5  5.0 1445064380 806876 ?   Sl   13:30  15:24 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=71 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1143228548 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,7491582883318546824,5383672452647227649,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709052841842773
+pranesh    13462  0.0  0.9 1443270364 147296 ?   Sl   13:30   0:05 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=73 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=1145984821 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,3807062250266331263,13065242529822515419,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709054715926471
+pranesh    14439  0.0  0.0  12596  6400 pts/2    Ss   13:45   0:00 bash
+pranesh    14599  0.0  0.0 320056  9216 ?        Sl   13:47   0:00 /usr/libexec/gvfsd-http --spawner :1.20 /org/gtk/gvfs/exec_spaw/2
+pranesh    14874  0.0  0.5 654528 80272 ?        Sl   13:50   0:00 /usr/bin/gedit --gapplication-service
+pranesh    16860  0.0  0.0  14128  5120 pts/2    T    14:39   0:00 git diff
+pranesh    16861  0.0  0.0   8672  2560 pts/2    T    14:39   0:00 /usr/bin/pager
+pranesh    17734  0.0  0.0  14128  4992 pts/2    T    15:40   0:00 git diff
+pranesh    17735  0.0  0.0   8672  2560 pts/2    T    15:40   0:00 /usr/bin/pager
+pranesh    17987  0.0  0.0  14128  4992 pts/2    T    15:55   0:00 git diff
+pranesh    17988  0.0  0.0   8672  2560 pts/2    T    15:55   0:00 /usr/bin/pager
+pranesh    18339  0.0  0.0 462212  8192 ?        Sl   16:07   0:00 /usr/libexec/gvfsd-network --spawner :1.20 /org/gtk/gvfs/exec_spaw/3
+pranesh    18348  0.0  0.0 390548  8448 ?        Sl   16:07   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.20 /org/gtk/gvfs/exec_spaw/4
+root       19277  0.0  0.0      0     0 ?        I    16:51   0:00 [kworker/11:2-mm_percpu_wq]
+root       19487  0.0  0.0      0     0 ?        I    17:01   0:03 [kworker/u24:2-events_power_efficient]
+root       19566  0.0  0.0      0     0 ?        I    17:04   0:00 [kworker/3:0-mm_percpu_wq]
+root       19628  0.0  0.0      0     0 ?        I    17:09   0:00 [kworker/4:1-events]
+pranesh    19670  0.0  1.2 1443272204 195368 ?   Sl   17:10   0:02 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=374 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=14383557245 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,16225914803005078939,17770259299662116941,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709336765523020
+root       19751  0.0  0.0      0     0 ?        I    17:16   0:00 [kworker/10:1-i915-unordered]
+root       19803  0.0  0.0      0     0 ?        I    17:21   0:00 [kworker/3:2-mm_percpu_wq]
+pranesh    19888  0.0  0.0   8672  2560 pts/2    T    17:31   0:00 less app.log
+root       19910  0.0  0.0      0     0 ?        I    17:32   0:00 [kworker/7:0-events]
+root       19938  0.0  0.0      0     0 ?        I    17:33   0:00 [kworker/6:0-mm_percpu_wq]
+root       20033  0.0  0.0      0     0 ?        I    17:38   0:00 [kworker/5:0-mm_percpu_wq]
+root       20192  0.0  0.0      0     0 ?        I    17:43   0:00 [kworker/0:1-events]
+root       20203  0.0  0.0      0     0 ?        I    17:44   0:00 [kworker/5:1]
+root       20207  0.0  0.0      0     0 ?        I<   17:44   0:00 [kworker/u25:1-rb_allocator]
+root       20222  0.0  0.0      0     0 ?        I    17:45   0:00 [kworker/4:2-mld]
+root       20228  0.0  0.0      0     0 ?        I    17:45   0:00 [kworker/9:0-events]
+root       20229  0.0  0.0      0     0 ?        I    17:45   0:00 [kworker/8:0-mm_percpu_wq]
+root       20250  0.0  0.0      0     0 ?        I    17:47   0:00 [kworker/2:0-i915-unordered]
+root       20264  0.0  0.0      0     0 ?        I    17:47   0:00 [kworker/1:1-mm_percpu_wq]
+root       20312  0.0  0.0      0     0 ?        I    17:50   0:00 [kworker/7:2]
+root       20320  0.0  0.0      0     0 ?        I    17:51   0:00 [kworker/9:2-mm_percpu_wq]
+root       20352  0.1  0.0      0     0 ?        I    17:53   0:01 [kworker/u24:4-flush-259:0]
+pranesh    20353  0.2  1.2 1443287112 195456 ?   Sl   17:53   0:02 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=393 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=16914910264 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,12556226016881209118,17243362468418254894,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709354569318151
+root       20399  0.0  0.0      0     0 ?        I<   17:56   0:00 [kworker/u25:0-i915_flip]
+pranesh    20451  2.1  1.4 1443298464 227572 ?   Sl   17:58   0:15 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=399 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=17210496286 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,4589224252665351681,18376952578781040662,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709360191569245
+root       20472  0.0  0.0      0     0 ?        I    17:58   0:00 [kworker/11:1-mm_percpu_wq]
+root       20481  0.1  0.0      0     0 ?        I    17:58   0:00 [kworker/u24:0-events_power_efficient]
+pranesh    20482  0.0  0.4 1443195624 76396 ?    Sl   17:58   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=400 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=17236696804 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,7514117796436275503,8897471901092511865,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709361128611094
+root       20506  0.0  0.0      0     0 ?        I    17:58   0:00 [kworker/8:2-cgroup_destroy]
+root       20514  0.0  0.0      0     0 ?        I    17:58   0:00 [kworker/10:0]
+root       20527  0.0  0.0      0     0 ?        I    17:59   0:00 [kworker/2:1-i915-unordered]
+root       20536  0.0  0.0      0     0 ?        I    18:00   0:00 [kworker/6:2-events]
+pranesh    20537  0.0  0.7 1444952008 126528 ?   Sl   18:00   0:00 /home/pranesh/Downloads/chrom/opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=4849 --enable-crash-reporter=583ef4d6-917b-4312-aea6-ec5132ddbbd2, --extension-process --enable-dinosaur-easter-egg-alt-images --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable --ozone-platform=wayland --lang=en-GB --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=402 --time-ticks-at-unix-epoch=-1767598870470774 --launch-time-ticks=17374064166 --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,15784808429130910514,1795756660536237217,2097152 --field-trial-handle=3,i,16244702858198087848,5485694238978668235,262144 --disable-features=EyeDropper --variations-seed-version=20251219-070015.367000 --trace-process-track-uuid=3190709363002694792
+root       20610  0.0  0.0      0     0 ?        I<   18:01   0:00 [kworker/u25:2-i915_flip]
+root       20636  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/0:3-events]
+root       20639  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/1:0-mm_percpu_wq]
+root       20684  0.1  0.0      0     0 ?        I    18:04   0:00 [kworker/u24:1-i915]
+root       20735  0.0  0.0      0     0 ?        I    18:06   0:00 [kworker/6:1]
+root       20759  0.0  0.0      0     0 ?        I    18:07   0:00 [kworker/3:1]
+root       20764  0.0  0.0      0     0 ?        I    18:07   0:00 [kworker/8:1]
+root       20766  0.0  0.0      0     0 ?        I    18:08   0:00 [kworker/0:0-events]
+root       20774  0.0  0.0      0     0 ?        I    18:08   0:00 [kworker/9:1]
+root       20775  0.0  0.0      0     0 ?        I    18:08   0:00 [kworker/1:2-events]
+root       20800  0.0  0.0      0     0 ?        I    18:09   0:00 [kworker/4:0-mm_percpu_wq]
+root       20807  0.0  0.0      0     0 ?        I    18:09   0:00 [kworker/11:0-events]
+root       20814  0.0  0.0      0     0 ?        I    18:10   0:00 [kworker/0:2-events]
+pranesh    20816  0.0  0.0  13880  4864 pts/2    R+   18:10   0:00 ps aux

@@ -1,0 +1,1 @@
+ls: cannot access '/this/path/does/not/exist': No such file or directory
