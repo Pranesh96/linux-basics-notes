@@ -1,17 +1,17 @@
-# Day 2 — Viewing & Searching (Dummy Logs)
+## Day 2 – Viewing & Searching Files
 
-##  Objective
-Learn how to **view, navigate, and search log files** using common Linux comman>
-This lab uses a **dummy application log file** to practice real-world troublesh>
+Commands practiced:
+- cat
+- less
+- head
+- tail
+- wc
+- grep
 
----
+Key learnings:
+- less is safer than cat for large files
+- grep is the fastest way to find issues
+- Logs usually show cause *before* failure
 
-##  Lab Setup
-
-###  Create the lab directory
-```bash
-mkdir -p labs/day2-view-search
-cd labs/day2-view-search
-
-- created dummy data 
-- used cat, less, head, tail, wc and grep to view dummpy logs 
+Production mindset:
+- Always search before scrolling
